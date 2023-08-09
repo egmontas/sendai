@@ -1,5 +1,7 @@
 # sendai
 
+This is a repo for the construction drawings of the Sendai collection. I hope to understand how to draw with Digital Intelligence, clothing seems to be the appropriate test subject. 
+
 # 0.0
 
 Why Digitality Matters.
